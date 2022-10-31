@@ -1,0 +1,25 @@
+.test{
+text-align: center;
+
+
+}
+#count{
+
+text-align: center;
+font-size: 100px;
+
+}
+#increment{
+font-size: 50px;
+background: darkred;
+
+
+
+}
+body{
+background-image: url("img1.jpg");
+background-size: cover;
+
+
+
+}
